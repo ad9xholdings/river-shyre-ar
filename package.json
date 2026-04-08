@@ -1,0 +1,49 @@
+{
+  "name": "@jamzia/rivershyre",
+  "version": "1.0.0",
+  "description": "RiverShyre™ AR Gaming Platform - JamZia AR InterActive Entertainment™. Virtual pet breeding, DNA collection, combat, and crypto rewards.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "jest",
+    "lint": "eslint .",
+    "demo": "node index.js"
+  },
+  "keywords": [
+    "jamzia",
+    "rivershyre",
+    "ar",
+    "gaming",
+    "xrpl",
+    "xrp",
+    "bitcoin",
+    "skycoins",
+    "skyivy",
+    "skylockr",
+    "wisdompay",
+    "virtual-pets",
+    "dna",
+    "combat",
+    "rewards"
+  ],
+  "author": "Ad9x Holdings, LLC",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jamzia/rivershyre.git"
+  },
+  "bugs": {
+    "url": "https://github.com/jamzia/rivershyre/issues"
+  },
+  "homepage": "https://rivershyre.jamzia.io",
+  "dependencies": {
+    "crypto": "^1.0.1"
+  },
+  "devDependencies": {
+    "jest": "^29.0.0",
+    "eslint": "^8.0.0"
+  },
+  "engines": {
+    "node": ">=16.0.0"
+  }
+}
